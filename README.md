@@ -9,3 +9,14 @@ Free includes three active orders, basic calculations, manual payments, a Classi
 [Workflow and support](https://sepidehdalir.github.io/ordermargin/support.html) · [Privacy](https://sepidehdalir.github.io/ordermargin/privacy.html)
 
 The original identity artwork is code-drawn. Marketing assets will use authentic app UI and actual customer PDFs with fictional example businesses/clients. No competitor artwork or demand claims.
+
+
+## Product tour
+
+Five dedicated iPhone and five dedicated iPad marketing frames show the final native interface and an actual exported quote, using fictional example records. Branding and Atelier styling are labelled Pro.
+
+[![Pricing, costs and estimated margin](assets/iphone-01.png)](https://sepidehdalir.github.io/ordermargin/)
+
+[View the complete product tour and support guide](https://sepidehdalir.github.io/ordermargin/).
+
+Release status remains **in production; not released**. Apple approval, release and genuine Sandbox verification are not claimed.
